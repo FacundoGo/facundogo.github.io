@@ -1,0 +1,60 @@
+#container-main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin-right: 15%;
+  margin-left: 15%;
+  margin-top: 2%;
+  margin-bottom: 0%;
+  /* border: solid red 1px; */
+}
+#container-main > * {
+  margin: 10px;
+  /* border: solid red 1px; */
+  
+}
+
+#container-main > * :hover {
+  color: gray;
+  text-decoration: none;
+}
+footer {
+position:absolute;
+left:0;
+bottom:10%;
+right:0;
+}
+/* .App {
+  margin-top: 20vh;
+} */
+.container-main1 {
+  margin-top: 20vh;
+  /* border: solid greenyellow 1px; */
+}
+.main-overview-h4 {
+  font-weight:"300";
+  width: '40%';
+  text-align: 'center';
+}
+@media only screen and (max-width: 600px) {
+  footer {
+    position:absolute;
+    left:0;
+    bottom:5%;
+    right:0;
+    }
+    .main-overview {
+      width: 100vw;
+    }
+    .main-overview > h4 {
+      margin-top: 5vh;
+      width: 80%;
+      /* color: red; */
+    }
+    .container-main1 {
+      margin-top: 5vh;
+      /* border: solid greenyellow 1px; */
+    }
+}
