@@ -24,7 +24,7 @@ export default class Experience extends Component {
         <h5 className="dates">Jan/2017 - Nov/2020</h5>
         <h5 className="location">Berlin, Germany</h5>
         <ul>
-        <li>Led product development strategy for a high-performing technical of over 17 scientists and engineers</li>
+        <li>Led product development strategy for a high-performing technical team of over 17 scientists and engineers</li>
         <li>Fundraised over €3.4 million in 3 rounds</li>
         <li>Developed and managed entire B2B accounts in the US and Europe</li>
       </ul>
