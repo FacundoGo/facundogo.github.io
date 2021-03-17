@@ -24,7 +24,7 @@ export default function Education() {
         <h3><a href="https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/" target="_blank" className="companyLink">Università Bocconi - </a><span className="role">BSc International Finance</span></h3>
         <h5 className="dates">Sep/2010 - Sep/2013</h5>
         <h5 className="location">Milan, Italy</h5>
-        <p>Apart from the core content which included the design thinking process, financial analyis and digital marketing, I took the opportunity to experiment with Hackathons (winning 2), social entrepreneurship, and bein a class representative, among other things.</p>
+        <p>Corporate valuation, options and derivatives, statistics, financial math, etc.</p>
         </div>
         <div className="entry">
         <h3>Languages</h3>

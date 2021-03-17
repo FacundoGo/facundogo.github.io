@@ -43,9 +43,8 @@ export default class Experience extends Component {
         <h5 className="dates">May/2014 - Jul/2015</h5>
         <h5 className="location">Buenos Aires, Argentina</h5>
         <ul>
-        <li>Defined and built the initial customer pipeline for novel AI based sales training technology</li>
-        <li>Created business case for novel pathogen-detection technology, including commercialisation and licensing over 13 patents</li>
-      </ul>
+        <li>Coordinated a high-profile project to improve the reporting of the Sales Team's P & L and reduced errors by 30%</li>
+<li>Daily communication and reconciliation of Front Office reports (Sales & Trading P&L)</li> </ul>
       </div>
       <div className="entry">
       <h3><a href="www.paradigma.com" target="_blank" className="companyLink">Paradigma - </a><span className="role">Strategy Consultant</span></h3>

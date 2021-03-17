@@ -9,7 +9,7 @@ export default class Main extends Component {
         <div className="container-main1">
         <h1 style={{ marginTop: '30px' }}>Hi! I'm Facundo.</h1>
         <div className="main-overview"style={{display: 'flex', justifyContent: 'center'}}><h4 className="main-overview-h4">
-        Freelance Fullstack Developer and Accelerator Development Consultant at eWorks.</h4></div>
+        Freelance Fullstack Developer and Freelance Product Consultant</h4></div>
         {/* <Main></Main> */}
             <div id="container-main">
                   <Posts name="Experience" emoji="🧙‍♂️" img="../experience1.jpg"></Posts>
