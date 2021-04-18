@@ -20,7 +20,7 @@ export default class Experience extends Component {
       </ul>
         </div>
         <div className="entry">
-        <h3><a href="www.leonyte.com" target="_blank" className="companyLink">Leonyte Biosystems - </a><span className="role">COO & Head of Product</span></h3>
+        <h3><a href="https://www.leonyte.com" target="_blank" className="companyLink">Leonyte Biosystems - </a><span className="role">COO & Head of Product</span></h3>
         <h5 className="dates">Jan/2017 - Nov/2020</h5>
         <h5 className="location">Berlin, Germany</h5>
         <ul>
@@ -30,7 +30,7 @@ export default class Experience extends Component {
       </ul>
         </div>
         <div className="entry">
-        <h3><a href="www.mcblabs.com" target="_blank" className="companyLink">MCB Labs - </a><span className="role">Entrepreneur-in-Residence</span></h3>
+        <h3><a href="https://www.mcblabs.com" target="_blank" className="companyLink">MCB Labs - </a><span className="role">Entrepreneur-in-Residence</span></h3>
         <h5 className="dates">Jul/2016 - Dec/2016</h5>
         <h5 className="location">Berlin, Germany</h5>
         <ul>
@@ -39,7 +39,7 @@ export default class Experience extends Component {
       </ul>
       </div>
       <div className="entry">
-      <h3><a href="www.jpmorgan.com" target="_blank" className="companyLink">JP Morgan Chase - </a><span className="role">Trading and Sales Operations Analyst</span></h3>
+      <h3><a href="https://www.jpmorgan.com" target="_blank" className="companyLink">JP Morgan Chase - </a><span className="role">Trading and Sales Operations Analyst</span></h3>
         <h5 className="dates">May/2014 - Jul/2015</h5>
         <h5 className="location">Buenos Aires, Argentina</h5>
         <ul>
@@ -47,7 +47,7 @@ export default class Experience extends Component {
 <li>Daily communication and reconciliation of Front Office reports (Sales & Trading P&L)</li> </ul>
       </div>
       <div className="entry">
-      <h3><a href="www.paradigma.com" target="_blank" className="companyLink">Paradigma - </a><span className="role">Strategy Consultant</span></h3>
+      <h3><a href="https://www.paradigma.com" target="_blank" className="companyLink">Paradigma - </a><span className="role">Strategy Consultant</span></h3>
         <h5 className="dates">Oct/2013 - May/2014</h5>
         <h5 className="location">Buenos Aires, Argentina</h5>
         <ul>
