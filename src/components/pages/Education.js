@@ -6,7 +6,6 @@ export default function Education() {
   return (
 <div className="main">
         <Navbar></Navbar>
-        <h1>Luke what up</h1>
         <h1 className="header">Education</h1>
         <div className="entries">
         <div className="entry">
