@@ -33,6 +33,12 @@ function App() {
           path='/Contact'
           render={props => <Contact {...props} />}
         />
+          <Route
+          exact
+          path='/LinkedIn'
+          render={props => <Experience {...props} />}
+        />
+
     </div>
   );
 }
